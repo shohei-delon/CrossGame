@@ -1,0 +1,13 @@
+
+<resources>
+    <string name="app_name">CrossGameApplication</string>
+
+    <string name="details">&lt;ルール説明&gt;\n
+        一.5秒間のシャッフルする時間が与えられます。適当に押しまくってください。
+        \n二.最小手で全部の色を反転させてください。</string>
+
+    <string name="counter">counter : </string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-9589073381069791/8150162867 </string>
+
+</resources>

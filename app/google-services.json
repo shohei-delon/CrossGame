@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "172973683641",
+    "firebase_url": "https://admob-app-id-6673429660.firebaseio.com",
+    "project_id": "admob-app-id-6673429660",
+    "storage_bucket": "admob-app-id-6673429660.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172973683641:android:d93640500d3f13a6",
+        "android_client_info": {
+          "package_name": "com.delon.user.crossgameapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172973683641-mmkt35a5nnglleuusq3f8h2bgphuuafr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCBk8war4_4FSS3SqeYTsM9AcHkxBlXUE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
